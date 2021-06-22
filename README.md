@@ -29,4 +29,4 @@ I'm Deeksha Bhatnagar, an Engineering Student and a keen learner. I am currently
 [![Deeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deekshabhatnagar2002&theme=highcontrast)](https://github.com/deekshabhatnagar2002/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deekshabhatnagar2002&layout=compact)](https://github.com/deekshabhatnagar2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deekshabhatnagar2002&layout=compact&theme=highcontrast)](https://github.com/deekshabhatnagar2002/github-readme-stats)
