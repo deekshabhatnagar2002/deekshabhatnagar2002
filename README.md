@@ -1,6 +1,6 @@
 # Hi I'm Deeksha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Deeksha Bhatnagar, an Engineering Student and a keen learner. I am currently a beginner and learning new things in the field of tech. Web development excites me more!
+I'm Deeksha Bhatnagar, an Engineering Student and a keen learner. I am currently on data structures and algorithms and learning new things in the field of tech. Web development excites me more!
 
 :mailbox: Reach me out!
 
